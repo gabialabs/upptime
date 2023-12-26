@@ -20,7 +20,7 @@ status-website:
   # cname: demo.upptime.js.org
   cname: gabialabs.github.io
   # baseUrl: /your-repo-name
-  baseUrl: /upptime/
+  baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
