@@ -13,6 +13,18 @@ sites:
     url: https://gcloud.gabia.com/
   - name: Gabia.orggcloudconsole
     url: https://orgcloud.gabia.com/login
+  - name: gabia DNS1 - ns.gabia.co.kr
+    check: "tcp-ping"
+    url: ns.gabia.co.kr
+    port: 53
+  - name: gabia DNS2 - ns1.gabia.co.kr
+    check: "tcp-ping"
+    url: ns1.gabia.co.kr
+    port: 53
+  - name: gabia DNS3 - ns.gabia.net
+    check: "tcp-ping"
+    url: ns.gabia.net
+    port: 53
   - name: kns.kornet.net DNS 1
     check: "tcp-ping"
     url: 168.126.63.1
