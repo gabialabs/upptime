@@ -13,6 +13,40 @@ sites:
     url: https://gcloud.gabia.com/
   - name: Gabia.orggcloudconsole
     url: https://orgcloud.gabia.com/login
+  - name: kns.kornet.net DNS 1
+    check: "tcp-ping"
+    url: 168.126.63.1
+    port: 53
+  - name: kns2.kornet.net DNS 2
+    check: "tcp-ping"
+    url: 168.126.63.2 
+    port: 53
+  - name: ns.lgtelecom.com DNS 1
+    check: "tcp-ping"
+    url: 164.124.101.2
+    port: 53    
+  - name: ns1.lgtelecom.com DNS 2
+    check: "tcp-ping"
+    url: 164.124.101.31
+    port: 53   
+    ns1.lgtelecom.com
+    164.124.101.31
+  - name: bns1.hananet.net DNS 1
+    check: "tcp-ping"
+    url: 210.220.163.82
+    port: 53
+  - name: bns2.hananet.net DNS 2
+    check: "tcp-ping"
+    url: 219.250.36.130 
+    port: 53
+  - name: dns.msftncsi.com DNS 1
+    check: "tcp-ping"
+    url: 1.1.1.1
+    port: 53
+  - name: one.one.one.one DNS 1
+    check: "tcp-ping"
+    url: 1.0.0.1
+    port: 53
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
