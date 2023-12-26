@@ -29,8 +29,6 @@ sites:
     check: "tcp-ping"
     url: 164.124.101.31
     port: 53   
-    ns1.lgtelecom.com
-    164.124.101.31
   - name: bns1.hananet.net DNS 1
     check: "tcp-ping"
     url: 210.220.163.82
