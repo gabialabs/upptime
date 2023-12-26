@@ -25,6 +25,16 @@ sites:
     check: "tcp-ping"
     url: ns.gabia.net
     port: 53
+  - name: Gabia.mornitoring.Zenius7
+    url: https://zenius7.gabia.com/zenius7/login.zenius?_m=loginPage
+  - name: Gabia.mornitoring.Zenius72
+    url: https://zenius72.gabia.com/zenius7/login.zenius?_m=loginPage
+  - name: Gabia.mornitoring.Zenius73
+    url: https://zenius73.gabia.com/zenius7/login.zenius?_m=loginPage
+  - name: Gabia.mornitoring.Zenius82
+    url: https://zenius82.gabia.com/zenius8/login.zenius?_m=loginPage
+  - name: Gabia.mornitoring.Zenius8
+    url: https://zenius8.gabia.com/zenius8/login.zenius?_m=loginPage
   - name: kns.kornet.net DNS 1
     check: "tcp-ping"
     url: 168.126.63.1
