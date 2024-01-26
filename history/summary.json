@@ -13,7 +13,7 @@
     "time": 2922,
     "timeDay": 2238,
     "timeWeek": 2182,
-    "timeMonth": 2922,
+    "timeMonth": 2854,
     "timeYear": 2922,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 1374,
     "timeDay": 1061,
     "timeWeek": 1241,
-    "timeMonth": 1374,
+    "timeMonth": 1357,
     "timeYear": 1374,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 1877,
     "timeDay": 1759,
     "timeWeek": 1896,
-    "timeMonth": 1877,
+    "timeMonth": 1887,
     "timeYear": 1877,
     "dailyMinutesDown": {}
   },
@@ -58,17 +58,17 @@
     "url": "https://gcloud.gabia.com/",
     "icon": "https://icons.duckduckgo.com/ip3/gcloud.gabia.com.ico",
     "slug": "gabia-gcloudconsole",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2277,
-    "timeDay": 2068,
-    "timeWeek": 2164,
-    "timeMonth": 2277,
-    "timeYear": 2277,
+    "time": 2241,
+    "timeDay": 1416,
+    "timeWeek": 1989,
+    "timeMonth": 2190,
+    "timeYear": 2241,
     "dailyMinutesDown": {}
   },
   {
@@ -85,7 +85,7 @@
     "time": 888,
     "timeDay": 757,
     "timeWeek": 811,
-    "timeMonth": 888,
+    "timeMonth": 865,
     "timeYear": 888,
     "dailyMinutesDown": {}
   },
@@ -103,7 +103,7 @@
     "time": 165,
     "timeDay": 138,
     "timeWeek": 153,
-    "timeMonth": 165,
+    "timeMonth": 164,
     "timeYear": 165,
     "dailyMinutesDown": {}
   },
@@ -121,7 +121,7 @@
     "time": 158,
     "timeDay": 134,
     "timeWeek": 148,
-    "timeMonth": 158,
+    "timeMonth": 157,
     "timeYear": 158,
     "dailyMinutesDown": {}
   },
@@ -139,7 +139,7 @@
     "time": 160,
     "timeDay": 134,
     "timeWeek": 148,
-    "timeMonth": 160,
+    "timeMonth": 159,
     "timeYear": 160,
     "dailyMinutesDown": {}
   },
@@ -175,7 +175,7 @@
     "time": 1268,
     "timeDay": 1001,
     "timeWeek": 1215,
-    "timeMonth": 1268,
+    "timeMonth": 1267,
     "timeYear": 1268,
     "dailyMinutesDown": {}
   },
@@ -193,7 +193,7 @@
     "time": 1137,
     "timeDay": 927,
     "timeWeek": 1110,
-    "timeMonth": 1137,
+    "timeMonth": 1135,
     "timeYear": 1137,
     "dailyMinutesDown": {}
   },
@@ -211,7 +211,7 @@
     "time": 979,
     "timeDay": 936,
     "timeWeek": 914,
-    "timeMonth": 979,
+    "timeMonth": 980,
     "timeYear": 979,
     "dailyMinutesDown": {}
   },
@@ -247,7 +247,7 @@
     "time": 154,
     "timeDay": 124,
     "timeWeek": 144,
-    "timeMonth": 154,
+    "timeMonth": 153,
     "timeYear": 154,
     "dailyMinutesDown": {}
   },
@@ -283,7 +283,7 @@
     "time": 160,
     "timeDay": 134,
     "timeWeek": 149,
-    "timeMonth": 160,
+    "timeMonth": 159,
     "timeYear": 160,
     "dailyMinutesDown": {}
   },
@@ -319,7 +319,7 @@
     "time": 176,
     "timeDay": 134,
     "timeWeek": 148,
-    "timeMonth": 176,
+    "timeMonth": 159,
     "timeYear": 176,
     "dailyMinutesDown": {}
   },
