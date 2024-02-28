@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 2705,
     "timeDay": 1841,
-    "timeWeek": 2163,
+    "timeWeek": 2173,
     "timeMonth": 2501,
     "timeYear": 2705,
     "dailyMinutesDown": {}
@@ -66,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 2186,
     "timeDay": 2530,
-    "timeWeek": 2168,
+    "timeWeek": 2175,
     "timeMonth": 2108,
     "timeYear": 2186,
     "dailyMinutesDown": {}
@@ -166,7 +166,7 @@
     "url": "https://zenius72.gabia.com/zenius7/login.zenius?_m=loginPage",
     "icon": "https://icons.duckduckgo.com/ip3/zenius72.gabia.com.ico",
     "slug": "gabia-mornitoring-zenius72",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
