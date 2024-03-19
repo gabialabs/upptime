@@ -1,7 +1,7 @@
 url: https://orgcloud.gabia.com/login
-status: down
-code: 500
-responseTime: 3880
-lastUpdated: 2024-03-19T17:11:41.156Z
+status: up
+code: 200
+responseTime: 978
+lastUpdated: 2024-03-19T17:25:31.182Z
 startTime: 2023-12-26T03:00:49.043Z
 generator: Upptime <https://github.com/upptime/upptime>
