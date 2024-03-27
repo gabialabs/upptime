@@ -1,7 +1,7 @@
 url: https://www.gabia.com/
-status: up
-code: 200
-responseTime: 3749
-lastUpdated: 2024-03-26T23:17:38.622Z
+status: down
+code: 503
+responseTime: 211
+lastUpdated: 2024-03-27T17:34:13.523Z
 startTime: 2023-12-26T03:00:37.269Z
 generator: Upptime <https://github.com/upptime/upptime>
