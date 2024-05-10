@@ -174,7 +174,7 @@
     "uptimeYear": "100.00%",
     "time": 1316,
     "timeDay": 1243,
-    "timeWeek": 1301,
+    "timeWeek": 1290,
     "timeMonth": 1443,
     "timeYear": 1316,
     "dailyMinutesDown": {}
@@ -220,7 +220,7 @@
     "url": "https://zenius8.gabia.com/zenius8/login.zenius?_m=loginPage",
     "icon": "https://icons.duckduckgo.com/ip3/zenius8.gabia.com.ico",
     "slug": "gabia-mornitoring-zenius8",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
